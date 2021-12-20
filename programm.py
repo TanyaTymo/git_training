@@ -23,7 +23,7 @@ tess.forward(320)
 tess.left(120)
 
 # turn tess around and move her away from the origin
-tess.right(180)
+tess.right(200)
 tess.forward(320)
 
 # make alex draw a square
