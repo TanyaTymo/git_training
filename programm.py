@@ -9,16 +9,16 @@ wn.title("Карта прохода по помещению")
 # instantiate (create) tess and set her attributes
 tess = turtle.Turtle()
 tess.color("hotpink")
-tess.pensize(5)
+tess.pensize(20)
 
 # instantiate alex
 alex = turtle.Turtle()
 
 # draw an equilateral triangle with tess
 tess.forward(320)
-# tess.left(120)
+tess.left(120)
 tess.forward(320)
-# tess.left(120)
+tess.left(120)
 tess.forward(320)
 tess.left(120)
 
