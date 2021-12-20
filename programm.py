@@ -16,9 +16,9 @@ alex = turtle.Turtle()
 
 # draw an equilateral triangle with tess
 tess.forward(320)
-tess.left(120)
+# tess.left(120)
 tess.forward(320)
-tess.left(120)
+# tess.left(120)
 tess.forward(320)
 tess.left(120)
 
